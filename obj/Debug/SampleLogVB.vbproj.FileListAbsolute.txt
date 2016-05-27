@@ -1,0 +1,9 @@
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleLogVB\SampleLogVB\bin\Debug\SampleLogVB.exe.config
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleLogVB\SampleLogVB\obj\Debug\SampleLogVB.Resources.resources
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleLogVB\SampleLogVB\obj\Debug\SampleLogVB.vbproj.GenerateResource.Cache
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleLogVB\SampleLogVB\obj\Debug\SampleLogVB.xml
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleLogVB\SampleLogVB\bin\Debug\SampleLogVB.exe
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleLogVB\SampleLogVB\bin\Debug\SampleLogVB.pdb
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleLogVB\SampleLogVB\bin\Debug\SampleLogVB.xml
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleLogVB\SampleLogVB\obj\Debug\SampleLogVB.exe
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleLogVB\SampleLogVB\obj\Debug\SampleLogVB.pdb
